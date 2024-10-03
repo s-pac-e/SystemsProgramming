@@ -9,6 +9,8 @@ int main(int argc, char *argv[])
     // Pass in your student id via command line argument.
     // Set environment variable USER_ID to your student ID.
     // Print USER_ID
+    printf("argc: %d\n", argc);
+    printf("argv: %s\n", argv[0]);
 
     // Step 2
     // Set environment variable ASSIGNMENT3 to "Environment Variables and Process IDs"
