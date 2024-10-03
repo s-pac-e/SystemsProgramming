@@ -60,7 +60,3 @@ class triangle:
         print(f"alpha : {self.alpha}")
         print(f"beta : {self.beta}")
         print(f"------------------------------")
-x = triangle(6,8)
-x.print_all()
-x.set_base(10)
-x.print_all()
