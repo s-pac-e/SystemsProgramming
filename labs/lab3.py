@@ -28,4 +28,4 @@ time_memo = time.time() - start_time_memo
 
 # Print results and time taken
 print(f"Naive Fibonacci result for F(40): {naive_result}, Time taken: {time_naive:.4f} seconds")
-print(f"Memoized Fibonacci result for F(40): {memo_result}, Time taken: {time_memo:.4f} seconds")
+print(f"Memoized Fibonacci result for F(40): {memo_result}, Time taken: {time_memo:.6f} seconds")
