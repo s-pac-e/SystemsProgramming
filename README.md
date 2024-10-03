@@ -19,14 +19,6 @@ Description (if necessary)
 Links to relevant files (e.g., code, documentation)
 Example:
 
-Assignment 1: Introduction to C Programming
-Description: Write a simple C program that calculates the Fibonacci sequence.
-Link to fibonacci.c
-Assignment 2: File I/O and Processes
-Description: Implement a program that reads data from a file and performs some processing.
-Link to file_io.c
-Getting Started
-Provide instructions for anyone who wants to clone your repository and get started. Include details like how to set up the development environment, install necessary tools, and compile/run the code. Be as clear as possible!
 
 Usage
 Explain how to use your assignments. If there are specific steps to follow or command-line arguments to provide, document them here. You can also include examples of expected output.
