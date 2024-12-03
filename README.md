@@ -34,7 +34,7 @@ Open a pull request here.
 License
 Specify the license under which you’re sharing your code. If you’re not sure, consult your course materials or choose an open-source license like MIT or Apache.
 
-Feel free to customize this template to fit your preferences. Good luck with your systems programming course, and happy coding! If you have any questions or need further assistance, feel free to ask. 😊🚀
+Feel free to customize this template to fit your preferences. Good luck with your systems programming course, and happy coding! If you have any questions or need further assistance, feel free to ask. 
 
 Note: Remember to replace the example assignments and links with your actual content!
 
